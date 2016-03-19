@@ -1,7 +1,7 @@
 name: Eric Kaufman
 favicon: null
-layout_spectrum: 0.75468
-typography_spectrum: 0
+layout_spectrum: 0
+typography_spectrum: 0.99688
 title: 'Eric Kaufman | Director'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1c1c1c'
-    - '#e5e5e5'
-    - '#858585'
-    - '#c1c1c1'
-    - '#404040'
-  brandStrength: 0
+    - '#030305'
+    - '#3b1f14'
+    - '#635950'
+    - '#8b7d74'
+    - '#a5a8b4'
+  brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
