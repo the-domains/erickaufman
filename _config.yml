@@ -1,6 +1,6 @@
 name: erickaufman
 favicon: null
-layout_spectrum: 0.75884
+layout_spectrum: 0.75468
 typography_spectrum: 0
 title: 'Eric Kaufman | Director'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5b5d69'
     - '#342640'
     - '#c9a19a'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
