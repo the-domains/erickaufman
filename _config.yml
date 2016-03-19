@@ -1,0 +1,28 @@
+name: erickaufman
+favicon: null
+layout_spectrum: 0.028875035466626287
+typography_spectrum: 0.7494246850255877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.053540938533842564
+  lightness: 0.31299753673374653
+  saturation: 0.19344595493748784
+  rhythmicContrast: 0.7312202141620219
+purpose: []
