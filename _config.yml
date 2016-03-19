@@ -1,4 +1,4 @@
-name: erickaufman
+name: Eric Kaufman
 favicon: null
 layout_spectrum: 0.75468
 typography_spectrum: 0
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#9092a1'
-    - '#5b5d69'
-    - '#342640'
-    - '#c9a19a'
+    - '#1c1c1c'
+    - '#e5e5e5'
+    - '#858585'
+    - '#c1c1c1'
+    - '#404040'
   brandStrength: 0
   lightness: 0
   saturation: 1
